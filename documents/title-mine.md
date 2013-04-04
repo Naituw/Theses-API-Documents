@@ -1,7 +1,7 @@
 ### 我的论题
 ###批量获取用户
 <pre>
-Get title/mine.json
+Get titles/mine.json
 </pre>
 
 参数名      |类型及范围      |说明
