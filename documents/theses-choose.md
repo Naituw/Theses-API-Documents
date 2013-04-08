@@ -1,6 +1,6 @@
 ###学生选题
 <pre>
-Get theses/choose.json
+Post theses/choose.json
 </pre>
 
 参数名      |类型及范围      |说明
