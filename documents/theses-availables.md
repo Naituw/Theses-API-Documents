@@ -1,6 +1,6 @@
 ###批量获取选题
 <pre>
-Get theses/availables.json (state状态说明：0：学生申请 1：正式通过的选题 2：老师审核通过的选题)
+Get theses/availables.json 
 </pre>
 参数名      |类型及范围      |说明
 ---    		|---				|---- 
@@ -15,37 +15,21 @@ count |int |单页的数量
     "object": [
         {
             "available_major": [
-                "1",
-                "2",
                 "3",
-                "5"
-            ],
-            "createAt": "2013-01-06T21:01:28",
-            "deptid": 1,
-            "description": "要求有网页、android和ios版",
-            "requireInfo": "答辩前完成",
-            "state": 1,
-            "studentNum": 2,
-            "teacherid": 1,
-            "title": "基于新浪sae的毕业论文管理系统",
-            "titleid": 1
-        },
-        {
-            "available_major": [
-                "1",
                 "2",
-                "3",
-                "5"
+                "1"
             ],
-            "createAt": "2013-03-03T10:02:03",
+            "createAt": "2013-04-08T20:42:06",
             "deptid": 1,
-            "description": "要求有网页、android和ios版",
-            "requireInfo": "答辩前完成",
-            "state": 1,
-            "studentNum": 2,
+            "description": "测试状态测试状态",
+            "require_info": "测试状态测试状态",
+            "state": 41,
+            "studentNum": 3,
+            "students": null,
+            "teacher": null,
             "teacherid": 1,
-            "title": "毕业论文管理系统",
-            "titleid": 2
+            "title": "测试状态测试状态",
+            "titleid": 10
         }
     ]
 }
