@@ -26,7 +26,18 @@ count |int |单页的数量
             "state": 41,
             "studentNum": 3,
             "students": null,
-            "teacher": null,
+            "teacher": {
+                "avatar": "http://lwapi-pic.stor.sinaapp.com/user_1_22.jpg",
+                "avatar_thumb": "http://lwapi-picmin.stor.sinaapp.com/user_1_22.jpg",
+                "department": null,
+                "email": "245358419@qq.com",
+                "gender": 1,
+                "level": 40,
+                "major_id": 1,
+                "screenname": "波潮",
+                "userid": 1,
+                "username": "bobo"
+            },
             "teacherid": 1,
             "title": "测试状态测试状态",
             "titleid": 10
