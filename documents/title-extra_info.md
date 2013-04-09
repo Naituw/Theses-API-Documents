@@ -17,8 +17,8 @@ titleid |int |论题id
     "object": {
         "student": [
             {
-                "avatar": null,
-                "avatar_thumb": null,
+                "avatar": "http://lwapi-pic.stor.sinaapp.com/user_1_22.jpg",
+                "avatar_thumb": "http://lwapi-picmin.stor.sinaapp.com/user_1_22.jpg",
                 "department": {
                     "deptid": 1,
                     "directorid": 1,
@@ -26,22 +26,39 @@ titleid |int |论题id
                     "name": "电软系",
                     "schoolname": "中山大学南方学院"
                 },
-                "email": null,
+                "email": "245358419@qq.com",
                 "gender": 1,
-                "level": 60,
-                "major_id": 0,
-                "screenname": "电软系测试",
-                "userid": 13,
-                "username": "dzx"
+                "level": 40,
+                "major_id": 1,
+                "screenname": "波潮",
+                "userid": 1,
+                "username": "bobo"
+            }
+        ],
+        "selections": [
+            {
+                "articleScore": null,
+                "comment": "\"\"",
+                "createAt": "2013-04-09T15:39:05",
+                "oralScore": 0,
+                "selectionid": 5,
+                "studentid": 2,
+                "titleid": 3
             }
         ],
         "teacher": {
-            "avatar": "http://lwapi-pic.stor.sinaapp.com/user_1_27.jpg",
-            "avatar_thumb": "http://lwapi-picmin.stor.sinaapp.com/user_1_27.jpg",
-            "department": null,
+            "avatar": "http://lwapi-pic.stor.sinaapp.com/user_1_22.jpg",
+            "avatar_thumb": "http://lwapi-picmin.stor.sinaapp.com/user_1_22.jpg",
+            "department": {
+                "deptid": 1,
+                "directorid": 1,
+                "majors": null,
+                "name": "电软系",
+                "schoolname": "中山大学南方学院"
+            },
             "email": "245358419@qq.com",
             "gender": 1,
-            "level": 30,
+            "level": 40,
             "major_id": 1,
             "screenname": "波潮",
             "userid": 1,
