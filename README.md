@@ -33,3 +33,5 @@
 * [修改头像](https://github.com/Naituw/Theses-API-Documents/blob/master/documents/account-update-avatar.md)
 * [发送通知](https://github.com/Naituw/Theses-API-Documents/blob/master/documents/notificationlist-create.md)
 * [获取通知列表](https://github.com/Naituw/Theses-API-Documents/blob/master/documents/notificationlist-list.md)
+* [老师打分](https://github.com/Naituw/Theses-API-Documents/blob/master/documents/theses-mark.md) 
+* [获取会话列表](https://github.com/Naituw/Theses-API-Documents/blob/master/documents/conversations-list.md)
