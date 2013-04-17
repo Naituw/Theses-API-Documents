@@ -1,6 +1,6 @@
 ###获取私信未读数
 <pre>
-Get unread.json
+Get unread/get.json
 </pre>
 
 <pre>
