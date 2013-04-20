@@ -1,12 +1,12 @@
 ###发送通知
 <pre>
-Get notification/create.json
+POST  notification/create.json
 </pre>
 
 参数名      |类型及范围      |说明
 ---  			|---				|---- 
 title |String |标题
-count |String |内容
+content|String |内容
 url |String |链接
 
 
