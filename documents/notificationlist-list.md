@@ -1,6 +1,6 @@
 ###获取通知
 <pre>
-Get notification/list.json
+Get notifications/list.json
 </pre>
 
 参数名      |类型及范围      |说明
